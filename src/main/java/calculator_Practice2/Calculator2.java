@@ -9,5 +9,10 @@ public class Calculator2 {
 		System.out.println("Hello 3");
 		
 		System.out.println("Just Typing");
+		
+		int a = 0;
+		int b = 1 ;
+		int c = a + b;
+		System.out.println(b);
 	}
 }
