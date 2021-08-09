@@ -7,5 +7,7 @@ public class Calculator2 {
 		System.out.println("Hello there again");
 		
 		System.out.println("Hello 3");
+		
+		System.out.println("Just Typing");
 	}
 }
