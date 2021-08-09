@@ -17,5 +17,9 @@ public class Calculator2 {
 		
 		
 		System.out.println("Hello I'm John, I'm new.");
+		
+		
+		
+		System.out.println("Im working on new stuff.");
 	}
 }
