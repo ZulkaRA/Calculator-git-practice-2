@@ -14,5 +14,8 @@ public class Calculator2 {
 		int b = 1 ;
 		int c = a + b;
 		System.out.println(b);
+		
+		
+		System.out.println("Hello I'm John, I'm new.");
 	}
 }
